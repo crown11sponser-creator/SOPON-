@@ -1,0 +1,6 @@
+{
+  "name": "Demo Rewards",
+  "description": "Demo investment and product rewards platform simulation with virtual demo credits, product plans, and daily reward tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
